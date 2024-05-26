@@ -1,0 +1,19 @@
+@import './reset.css';
+@import 'primevue/resources/themes/aura-dark-teal/theme.css';
+@import '/node_modules/primeflex/primeflex.css';
+@import 'primeicons/primeicons.css';
+
+html {
+  font-size: 16px;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (max-width: 768px) {
+  html {
+    font-size: 12px;
+  }
+}
