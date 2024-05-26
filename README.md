@@ -31,3 +31,10 @@ npm run build
 ```sh
 npm run preview
 ```
+
+### Аккаунт где есть уже созданные боты
+
+```sh
+Почта - hhsqlp@gmail.com
+Пароль - 78531903
+```
